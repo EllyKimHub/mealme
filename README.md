@@ -25,7 +25,7 @@
 | ⚙️ Framework | ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)  MyBatis |
 | 📚 Library | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
 | 💾 Database | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
-| 🗄️ Server | ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) // 자체서버??|  
+| 🗄️ Server | ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) // 내장된 아파치톰캣? |  
 | 📤 Version Control | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
   
 </br>
@@ -49,17 +49,8 @@
 5. 해당 기간 동안 섭취한 하루의 평균 탄수화물, 단백질, 지방의 섭취 g을 추천하는 섭취g과 비교해 과다, 과소 영양소를 확인할 수 있도록 함
 6. 해당 기간 동안 섭취한 하루 평균 영양성분 데이터를 시각화 
   - ### 주문내역 (식단상담, 상품구매) [🔗코드 보기](https://github.com/EllyKimHub/mealme/wiki/%E2%AD%90-%EB%A6%AC%EB%B7%B0-(%EC%8B%9D%EB%8B%A8%EC%83%81%EB%8B%B4,-%EC%83%81%ED%92%88%EA%B5%AC%EB%A7%A4))
-1. 컨설팅, 쇼핑몰 주문내역 받아오기
+1. 컨설팅, 쇼핑몰 주문내역 받아오기, 페이지 이동처리
 2. 주문 번호로 리뷰 작성하기 (별점 주기)
-3. 리뷰 내역 받아오기
+3. 리뷰 내역 받아오기, 페이지 이동처리(비동기)
 4. 리뷰 번호로 리뷰 수정하기
 
-  
-  
-```java
-
-public void main(){
-System.out.printLn();
-}
-
-```
